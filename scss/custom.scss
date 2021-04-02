@@ -1,0 +1,29 @@
+/********************************************************************/
+// Filename: Custom.scss
+// Created By: Dillon Ney
+// Date: 04-02-2021 
+// Ver: 0.01
+//
+// Desc: Style page for N1hil website
+
+
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../node_modules/bootstrap";
+
+// Then add additional custom code here
+
+//custom colors
+$primary: #00ff40;
+$danger: #ffd300;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);

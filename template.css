@@ -1,0 +1,32 @@
+body {
+    padding-top: 5rem;
+    background-color: #111111;
+  }
+
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+    color: #008F11;
+    
+    background-color: #111111;
+  }
+
+  form {
+    text-align: right;
+  }
+
+  a:link {
+      color: #00ff41
+  }
+
+  h1 {
+    text-align: center;
+    font-family: Impact;
+    font-size: 128pt;
+    color: #008F11;
+  }
+
+  .lead {
+      font-family: Chalkduster;
+  }
+  
